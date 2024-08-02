@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <h2>hellow orld</h2>
+    <h2>hello world</h2>
     <?php
       header('location:file://etc/passwd');
     ?>
